@@ -3,7 +3,7 @@ $(document).ready(function () {
 
       if (this.hash !== "") {
           event.preventDefault();
-        gggg
+        
 
         
           var hash = this.hash;
